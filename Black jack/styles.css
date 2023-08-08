@@ -1,0 +1,29 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    text-align: center;
+    background-image: url("images/jack-img.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    color: rgb(240, 240, 240);
+    align-items: center;
+}
+h1{
+    color: #4ADF86
+}
+button{
+    margin: 5;
+    padding: 4 30;
+    background-color:#4ADF86;
+    border : none;
+    border-radius: 3px;
+    color: #273549;
+    font-weight: bold;
+}
+p, h4 {
+    margin: 13px;
+}
+p{
+    font-style: italic;
+}
